@@ -1,3 +1,5 @@
+Why fork: I was interested in maintaining a patched version of joycond until the maintainer adds in autopairing for pro controllers since the aur fork is out of date but had a pretty good pkgbuild file
+
 joycond is a linux daemon which uses the evdev devices provided by hid-nintendo (formerly known as hid-joycon) to implement joycon pairing.
 
 hid-nintendo is currently in review on the linux-input mailing list. The most recent patches are currently found at https://github.com/DanielOgorchock/linux
